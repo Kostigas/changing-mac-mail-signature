@@ -42,7 +42,7 @@ This guide provides step-by-step instructions on how to change your signature in
    Open the specific signature file you want to modify using this command:
 
    ```bash
-  open -a TextEdit ~/Library/Mail/V3/MailData/Signatures/*.mailsignature
+   open -a TextEdit ~/Library/Mail/V3/MailData/Signatures/*.mailsignature
    ```
 3. **Make the Changes:**
 
