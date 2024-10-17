@@ -69,7 +69,7 @@ To prevent further changes to your signature file, you can lock it. You may also
    If you need to edit the file again, unlock it by running this command:
 
    ```bash
-   chflags uchg ~/Library/Mail/V3/MailData/Signatures/*.mailsignature
+   chflags nouchg ~/Library/Mail/V3/MailData/Signatures/*.mailsignature
    ```
 ## Final Steps
 
